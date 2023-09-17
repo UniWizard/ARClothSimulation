@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Knot Wrap POC</string>
+    <string name="game_view_content_description">Game view</string>
+
+    <string-array name="knotwrap_array">
+        <item>1 Product</item>
+    </string-array>
+
+    <string name="restart_ar">Restart AR</string>
+    <string name="bird_knotwrap">Bird</string>
+    <string name="lush_life_knotwrap">Lush Life</string>
+    <string name="ready_jelly_go_knotwrap">Ready Jelly Go</string>
+    <string name="size_small">Small - 45cm x 45cm</string>
+    <string name="size_medium">Medium - 70cm x 70cm</string>
+    <string name="size_large">Large - 90cm x 90cm</string>
+
+    <string name="bird_drawable_name">bird_knotwrap</string>
+    <string name="lush_life_drawable_name">lush_life_knotwrap</string>
+    <string name="ready_jelly_go_drawable_name">ready_jelly_go_knotwrap</string>
+
+    <string name="animation_one">Animation One</string>
+    <string name="animation_two">Animation Two</string>
+
+    <string name="animation_speed_slow">Slow</string>
+    <string name="animation_speed_medium">Medium</string>
+    <string name="animation_speed_fast">Fast</string>
+
+    <string name="three_d_mode">3D Image</string>
+    <string name="ar_mode">AR Mode</string>
+
+
+</resources>
